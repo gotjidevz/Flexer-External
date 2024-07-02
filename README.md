@@ -16,6 +16,12 @@ First download all file
  Click green button and download zip
 ```
 
+Extract file using Winrar
+
+```bash
+ Extract file to some location
+```
+
 Open roblox
 
 ```bash
