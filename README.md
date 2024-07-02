@@ -25,7 +25,7 @@ Extract file using Winrar
 Open roblox
 
 ```bash
- Open roblox player.exe
+ Open RobloxPlayerBeta.exe
 ```
 
 After click open exe
